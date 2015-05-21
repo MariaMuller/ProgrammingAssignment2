@@ -5,6 +5,8 @@
 ##cacheSolve function assumes the matrix is already invertible
 
 
+
+
 makeCacheMatrix <- function(x = matrix()) {
         
         #initialize m to nothing
